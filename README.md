@@ -8,7 +8,7 @@ Usamos o design enviado pelo Figma.
 
 
 
-[ 🔗Clique aqui para acessar](https://paulasousa1.github.io/NLW-esports-explorer/)
+[ 🔗Clique aqui para acessar](https://7daysofcode-68.netlify.app/)
 
 ## 🛠️ Tecnologias
 
